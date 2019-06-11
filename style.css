@@ -1,6 +1,21 @@
-body{
-  background: cornflowerblue;
+.header{
+  background-color: CornflowerBlue;
+  text-align: center;
+  color: white;
+  boarder: 3px solid white;
 }
-h1{
-  color:Magenta
+.about-me{
+  font-size: 20px;
+  opacity: 50%;
+  height: 20px;
+  margin-top: 15px;
+}
+.title{
+  font-weight: bold;
+ padding: 10px;
+}
+body{
+  color:white;
+  font-family: Georgia;
+  background-image: url("https://i.pinimg.com/originals/fe/e1/84/fee18481df61ce4220956dc8f44d09e8.jpg") 
 }
